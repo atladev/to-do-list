@@ -6,7 +6,7 @@ This application is easy to use and perfect for anyone who needs to keep their t
 
 If you're looking for a simple and efficient solution to manage your tasks, this is the right application for you!
 
-# How to use
+## How to use
 
 Clone this repository
 
@@ -18,6 +18,6 @@ Click the "Add" button to add a task to the list
 
 Select a task in the list and click the "Remove" button to remove it
     
-# Contribute
+## Contribute
 
 If you wish to contribute to this project, feel free to create an issue or submit a pull request. We're always open to new ideas and improvements.
