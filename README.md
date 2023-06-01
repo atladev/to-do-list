@@ -8,15 +8,15 @@ If you're looking for a simple and efficient solution to manage your tasks, this
 
 ## How to use
 
-Clone this repository
+- Clone this repository
 
-Run the py code file
+- Run the py code file
 
-Add tasks in the provided input
+- Add tasks in the provided input
 
-Click the "Add" button to add a task to the list
+- Click the "Add" button to add a task to the list
 
-Select a task in the list and click the "Remove" button to remove it
+- Select a task in the list and click the "Remove" button to remove it
     
 ## Contribute
 
